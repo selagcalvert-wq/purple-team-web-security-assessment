@@ -5,6 +5,16 @@ The Purple Team Web Application Security Assessment project aimed to demonstrate
 
 This project provided hands-on experience with web application security testing, HTTP request manipulation, vulnerability assessment, and purple team collaboration. As Team Lead and Red Team Lead, I directed team efforts, provided walkthroughs and troubleshooting support, and personally executed 12 attacks across SQL injection, cross-site scripting, and broken authentication categories.
 
+As part of the blue team, my responsibilities focused on analyzing attack activity, reviewing application behavior, and supporting detection and remediation efforts throughout the assessment. I assisted with monitoring how vulnerabilities and malicious requests appeared within the application and network traffic, while also helping document findings and defensive recommendations.
+
+My role included:
+-Reviewing HTTP requests and responses to better understand attack behavior and application weaknesses
+-Using Browser DevTools and Wireshark to analyze network traffic, requests, responses, tokens, and client-side behavior
+-Assisting with identifying indicators of SQL injection, cross-site scripting (XSS), and broken authentication activity
+-Supporting documentation of vulnerabilities, findings, impact, and remediation recommendations
+-Collaborating with team members during troubleshooting, testing validation, and analysis activities
+-Contributing to the overall purple team workflow by helping connect offensive testing with defensive analysis and visibility
+
 ## **Skills Learned**
 
 - Practical understanding of web application security testing concepts.
